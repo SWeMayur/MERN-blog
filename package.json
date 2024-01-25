@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "flowbite": "^2.2.1",
-    "flowbite-react": "^0.7.2",
-    "react-router-dom": "^6.21.3"
-  }
-}
